@@ -7,4 +7,7 @@ func main() {
 	b := 8
 	fmt.Println("Hello world!")
 	fmt.Println(a + b)
+
+	slice := []int{1, 2, 3}
+	fmt.Println(slice)
 }
